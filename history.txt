@@ -1,0 +1,792 @@
+    1  ls
+    2  mkdir i2
+    3  hw.py
+    4  python3 hw.py
+    5  echo hw.py
+    6  python3.7 hw.py
+    7  python3.8 hw.py
+    8  python3 hw.py
+    9  cd
+   10  pwd
+   11  cd dir
+   12  ls
+   13  hw.py ~/Desktop
+   14  hw.py ~/Desktop/
+   15  cd/
+   16  echo hw.py ~/Desktop
+   17  echo hw.py ~/Desktop/
+   18  python3 hw.py
+   19  python3.7 hw.py
+   20  sudo apt install
+   21  sudo apt install python3.7
+   22  python3.7 hw.py
+   23  hw.py
+   24  cron
+   25  df
+   26  sudo apt
+   27  sudo apt install python
+   28  python2.7.15 hw.py
+   29  python2.7 hw.py
+   30  ls
+   31  python2.7 hw.py
+   32  help
+   33  { COMMANDS ; }
+   34  sudo apt install python-pip
+   35  sudo apt-get update && sudo apt-get upgrade
+   36  sudo apt update && sudo apt upgrade -y
+   37  sudo apt install vlc
+   38  sudo apt install dropbox
+   39  ls
+   40  pwd
+   41  mkdir workspace
+   42  cd
+   43  pwd
+   44  ls
+   45  cd workspace
+   46  cd recruit
+   47  cd /home/recruit
+   48  ls
+   49  cd workspace
+   50  exit
+   51  man cd
+   52  man man
+   53  date
+   54  hostname
+   55  cd workspace
+   56  touch README.md
+   57  cp README.md ./CHANGELOG.md
+   58  cd tmp
+   59  cd /tmp
+   60  ls
+   61  cd workspace
+   62  cd //home//recruit//workspace
+   63  touch exercise.md
+   64  mv exercise.md /tmp/
+   65  cd /tmp
+   66  ls
+   67  rm exercise.md
+   68  ls
+   69  cat > umuzi.md
+   70  rm umuzi.md
+   71  ls
+   72  cd //home/recruit/workspace
+   73  cat > umuzi.md
+   74  cat > recruits.md
+   75  cat > cohort.md
+   76  cat umuzi.md recruits.md cohort.md
+   77  cat umuzi.md recruits.md cohort.md -> summary.md
+   78  cat summary.md
+   79  cat > summary.md
+   80  cat summary.md
+   81  cat umuzi.md recruits.md cohort.md -> summary.md
+   82  cat summary.md
+   83  ls
+   84  locate umuzi
+   85  locate umuzi.md
+   86  locate LAMP-umuzi.md
+   87  cd //home/recruit/
+   88  locate LAMP-umuzi.md
+   89  locate umuzi.md
+   90  cd //home/recruit/workspace
+   91  ls
+   92  cd~
+   93  cd ~
+   94  ls
+   95  touch search_results.md
+   96  ls
+   97  locate umuzi
+   98  locate umuzi > search_results.md
+   99  cat search_results.md
+  100  ls
+  101  pwd
+  102  workspace
+  103  ls
+  104  mkdir workspace
+  105  cd workspace
+  106  ls
+  107  cd/
+  108  cdls
+  109  ls
+  110  mkdir workspaceG
+  111  cd workspaceG
+  112  cat README.md
+  113  Test.txt
+  114  cat Test.txt
+  115  emacs README.md
+  116  touch README.md
+  117  ls
+  118  cp README.md
+  119  ls
+  120  lsls ~$
+  121  ls ~$
+  122  cp README.md ~/workspaceg
+  123  ls
+  124  cp README.md ~/workspaceG
+  125  cp README.md ~/workspaceG/CHANGELOG.md
+  126  ls
+  127  s
+  128  cd
+  129  ls
+  130  cd //home/documents/
+  131  pwd
+  132  locate file
+  133  locate documents
+  134  pwd
+  135  cd ~/Documents
+  136  touch pad.md
+  137  cd ~/desktop
+  138  cd
+  139  cd ~/Desktop
+  140  mkdir work
+  141  ls
+  142  cd
+  143  cd ~/documents
+  144  cd ~/Documents
+  145  cp pad.md
+  146  cp
+  147  cp help
+  148  cp pad.md ~/Desktop/work
+  149  cd
+  150  cd work
+  151  cd ~/Desktop
+  152  cd woprk
+  153  cd work
+  154  ls
+  155  mv pad.md pad_copy.md
+  156  ls
+  157  locate updatedb
+  158  cd -
+  159  locate pad_copy.md
+  160  ls
+  161  locate pad.md
+  162  cd ~/Desktop
+  163  ls
+  164  cd ~/Documents
+  165  ls
+  166  touch pad.md
+  167  cp pad.md pad_copy.md ~/Desktop
+  168  ls
+  169  touck jks
+  170  touch jks.md
+  171  ls
+  172  cp jks.md Jks1.md ~/Desktop
+  173  cp jks.md ~/Desktop
+  174  cd ~/Desktop
+  175  ls
+  176  cp jks.md Jks1.md
+  177  ls
+  178  find ~/ -name *.pdf
+  179  find ~/ -name *.mp3
+  180  cat find ~/ -name *.mp3 ~/Destop
+  181  cat --help
+  182  cat
+  183  nano [option] /path/to/filename
+  184  nano [option] /path/to/my_bio.md
+  185  locate my_bio.md
+  186  ls
+  187  nano my_bio.md
+  188  ls
+  189  rm '[option]'
+  190  rm'[option].save'
+  191  rm '[option].save'
+  192  ls
+  193  rm workspaceg
+  194  ls
+  195  ms my_bio.md ~/my_files
+  196  mv my_bio.md ~/my_files
+  197  lv
+  198  ls
+  199  cd ~/my_files
+  200  ls
+  201  mkdir my_files
+  202  rm my_files
+  203  ls
+  204  mkdir my_files
+  205  ls
+  206  cd ~/my_files
+  207  mv my_bio.md ~/my_files
+  208  cd
+  209  mv my_bio.md ~/my_files
+  210  cd ~/my_files
+  211  mv my_bio ~/my_files
+  212  mv my_bio.md ~/my_files
+  213  find . type f -newermt 2020-01-16 -ls
+  214  ls
+  215  cd -
+  216  ls
+  217  nano my_bio.md
+  218  ls
+  219  mv my_bio.md ~/my_files
+  220  ls
+  221  git@github.com:katlegoJKS/Linux-challenges.git
+  222  pspstree
+  223  wget -r https://www.w3schools.com/
+  224  stat /etc/passwd
+  225  ls file[[:digit:]].txt
+  226  file[[:digit:]].txt
+  227  shopt
+  228  find ~/workspace
+  229  find ~/workspace/recruit
+  230  find ~/workspace/recruits
+  231  find ~/workspace/recruits.md
+  232  find ~/recruits.md
+  233  find ~/cohort.md
+  234  find ~/workspace/cohort.md
+  235  tree
+  236  sudo yum install -y tree
+  237  sudo apt-get install -y tree
+  238  tree
+  239  clear
+  240  ls *.md
+  241  pwd
+  242  cd ~/workspace
+  243  ls *.md
+  244  clear
+  245  pstree
+  246  top
+  247  sudo nano /etc/crontab
+  248  shutdown now
+  249  sudo apt-get install git
+  250  git --version
+  251  path git
+  252  locate git
+  253  clear
+  254  ls
+  255  cd
+  256  pwd
+  257  cd ~/git-basic-exercises
+  258  touch git-basic-exercises
+  259  ls
+  260  rm git-basic-exercises
+  261  ls
+  262  mkdir git-basic-exercises
+  263  ls
+  264  cd
+  265  cd ~/git-basic-exercises
+  266  ls
+  267  ls -a
+  268  git init
+  269  ls -a
+  270  git status
+  271  touch README.md
+  272  ls -a
+  273  git status
+  274  git log
+  275  git add README.md
+  276  ls -a
+  277  git status
+  278  git log
+  279  git rm --cached README.md
+  280  ls -a
+  281  git status
+  282  git add README.md
+  283  ls -a
+  284  git log
+  285  git status
+  286  git log
+  287  git commit -m "My first commit"
+  288  git user.email "katlego.malatjie@umuzi.org"
+  289  git config -- user.email "katlego.malatjie@umuzi.org"
+  290  git commit -m "My first commit"
+  291  git config --global user.email "katlego.malatjie@umuzi.org"
+  292  git commit -m "My first commit"
+  293  git config --global user.email "katlego.malatjie@umuzi.org"
+  294  git config --global user.name katlegoJKS
+  295  git commit -m "initial commit"
+  296  git status
+  297  git log
+  298  q
+  299  sudo apt-get python-text-as-data
+  300  git commit -m "initial commit"
+  301  git log
+  302  q
+  303  sudo apt python-text-as-data
+  304  q
+  305  clear
+  306  nano README.md
+  307  cat README.md
+  308  git stats
+  309  git status
+  310  git commit README.md
+  311  git commit "README.md"
+  312  git commit -m "README.md"
+  313  git commit -m 
+  314  cd ~/gi-basic-exercises
+  315  cd ~/git-basic-exercises
+  316  nano README.md
+  317  cat README.md
+  318  git stats
+  319  git status
+  320  git add README.md
+  321  git status
+  322  git commit -m "second commit"
+  323  nano README.md
+  324  git status
+  325  git add "third commit"
+  326  git add -m "third commit"
+  327  git add README.md
+  328  git status
+  329  git commit -m "third commit"
+  330  pwd
+  331  ls
+  332  mkdir gbe
+  333  cd
+  334  cd ~/gbe
+  335  ls -a
+  336  git init
+  337  git status
+  338  git log
+  339  touch RM.md
+  340  ls -a
+  341  git status
+  342  git log
+  343  git status
+  344  git add RM.md
+  345  git status
+  346  nano RM.md
+  347  cat RM.md
+  348  git status
+  349  git add RM.md
+  350  git status
+  351  git commit -m "seconf commit"
+  352  git log
+  353  cd ~/git-basic-exercises
+  354  git log
+  355  clear
+  356  git log
+  357  q
+  358  git checkout 7a18145d14be671251f828ddb5d97067bfa38ef2
+  359  cat README.md
+  360  git checkout 08bee08da8670cb85cdd50d470ca64d64ce2e107
+  361  cat README.md
+  362  git checkout 7a18145d14be671251f828ddb5d97067bfa38ef2
+  363  cat README.md
+  364  git checkout master
+  365  cat README.md
+  366  git branch
+  367  git checkout -b feat/milkshake-flavours
+  368  git branch
+  369  git branch milkshake-flavours
+  370  git branch
+  371  rm milkshale-flavours
+  372  git rm --cached milkshake-flavours
+  373  git branch
+  374  git branch -d milkshake-flavours
+  375  git branch
+  376  git checkout master
+  377  git branch
+  378  git checkout feat/milkshake-flavours
+  379  git branch
+  380  nano milkshakes.md
+  381  git status
+  382  git add milkshake.md
+  383  git add feat/milkshake-flavours
+  384  git add milkshakes.md
+  385  git status
+  386  git log
+  387  git commit -m "added initial flavours"
+  388  git log
+  389  cd ~/git-basic-exercises
+  390  git log
+  391  git checkout master
+  392  git branch
+  393  git log
+  394  git checkout -b history
+  395  git branch
+  396  git checkout history
+  397  git log
+  398  git > history.txt
+  399  git history > history.txt
+  400  history > history.txt
+  401  ls -a
+  402  git add history.txt
+  403  git commit -m history
+  404  git log
+  405  git commit -m "added history"
+  406  ls -a
+  407  git checkout -d history
+  408  git checkout -d history.txt
+  409  ls -a
+  410  git checkout -d history
+  411  git checkout -d history.txt
+  412  ls -a
+  413  rm history
+  414  rm history.txt
+  415  ls -a
+  416  history > history.txt
+  417  git add history
+  418  git add history.txt
+  419  git commit -m "added history"
+  420  got log
+  421  git log
+  422  git branch
+  423  git checkout faet/milkshake-flavours
+  424  git checkout feat/milkshake-flavours
+  425  git log
+  426  nano README.md
+  427  cat README,md
+  428  cat README.md
+  429  git add README.md
+  430  git commit -m "random readme changes"
+  431  git checkout history
+  432  cat README.md
+  433  rm README.md echo "booya" > README.md
+  434  git rm README.md echo "booya" > README.md
+  435  cat README.md
+  436  git branch
+  437  git log
+  438  cat README.md
+  439  git commit -m "rewrote readme"
+  440  git add README.md
+  441  git commit -m "rewrote readme"
+  442  git checkout ls
+  443  git checkout master
+  444  ls
+  445  git log
+  446  git checkout feat/milkshake-flavours
+  447  ls
+  448  pwd
+  449  ls -a
+  450  cd ~/git-basic-exercises
+  451  clear
+  452  git status
+  453  ls -a
+  454  git add milkshake.md
+  455  git branch
+  456  git checkout master
+  457  git status
+  458  ls
+  459  git add README.md
+  460  git status
+  461  git checkout history
+  462  ls
+  463  git add history.txt
+  464  git add README.md
+  465  git status
+  466  git checkout feat/milkshake-flavours
+  467  ls
+  468  git add milkshakes.md
+  469  git add README.md
+  470  git status
+  471  git add clear
+  472  git status
+  473  git checkout master
+  474  git merge feat/milkshake-flavours
+  475  ls
+  476  git log
+  477  git checkout history
+  478  git merge master
+  479  git commit -m "clear"
+  480  git merge master
+  481  git log
+  482  ls
+  483  git log
+  484  git checkout history
+  485  git status
+  486  git add README.md
+  487  git checkout history
+  488  git log
+  489  git checkout feat/milkshake-flavours
+  490  git commit -m ""
+  491  git commit -m "README"
+  492  git checkout feat/milkshake-flavours
+  493  git log
+  494  git checkout master
+  495  git merge history
+  496  git merge X
+  497  git log
+  498  git pwd
+  499  pwd
+  500  git branch
+  501  git merge history
+  502  git branch hisory
+  503  git merge master
+  504  git branch master
+  505  git checkout master
+  506  git status
+  507  git add README.md
+  508  git status
+  509  git checkout master
+  510  git checkout history
+  511  git commit -m "commited"
+  512  git checkout history
+  513  git merge master
+  514  git staus
+  515  git status
+  516  git add README.md
+  517  git commit -m "README"
+  518  git merge master
+  519  git log
+  520  git checkout master
+  521  git log
+  522  cd ~/git-basic-exercises
+  523  git status
+  524  git branch
+  525  rm hisory
+  526  git rm hisory
+  527  git branch
+  528  git branch -d hisory
+  529  git branch
+  530  git status
+  531  clear
+  532  git checkout master
+  533  git merge feat/milkshake-flavours
+  534  ls
+  535  git log
+  536  git checkout master
+  537  git merge history
+  538  ls
+  539  git log
+  540  git checkout history
+  541  git log
+  542  git checkout feat/milkshake-flavours
+  543  git log
+  544  git checkout history
+  545  git merge master
+  546  git log
+  547  git checkout master
+  548  git log
+  549  git push
+  550  git remote add git-basic-exercises
+  551  git remote add -f git-basic-exercises
+  552  git remote add git-basic-exercises https://github.com/katlegoJKS/git-basic-exercises.git
+  553  git push
+  554  git push master
+  555  git push feat/milkshake-flavours
+  556  git push --set-upstream feat/milkshake-flavours master
+  557  git push --set-upstream master master
+  558  git remote add github https://github.com/katlegoJKS/git-basic-exercises.git
+  559  ls
+  560  git push github feat/milkshake-flavours
+  561  git push github history
+  562  git push github
+  563  git push
+  564  git push master
+  565  git push github master
+  566  git remote add github history
+  567  git push add github history
+  568  git push github history
+  569  cd ~/git-basic-exercises
+  570  git push github history
+  571  git push
+  572  git push github master
+  573  cd ..
+  574  git clone https://github.com/Umuzi-org/tech-department.git
+  575  pwd
+  576  ls
+  577  cd ~/tech-department
+  578  git log
+  579  git branch
+  580  git -a
+  581  git branch -a
+  582  git checkout project/git-basic-exercises
+  583  git checkout -b project/git-basic-exercises
+  584  git branch
+  585  git remote -v
+  586  ls
+  587  ls -a
+  588  cd -
+  589  ls
+  590  cd +
+  591  cd ~/tech-department
+  592  ls
+  593  git status
+  594  git branch
+  595  git log
+  596  ls
+  597  git log
+  598  cd
+  599  pwd
+  600  mkdir this-will-be-another-repo
+  601  ls
+  602  cd ~/this-will-be-another-repo
+  603  git init
+  604  ls 
+  605  ls -a
+  606  touch README.md
+  607  git add README.md
+  608  git status
+  609  git commit -m "README blank file"
+  610  git log
+  611  cd git-basic-exercises
+  612  cd ~git-basic-exercises
+  613  cd ~/git-basic-exercises
+  614  git log
+  615  git status
+  616  nano .gitignore
+  617  cat ignore-me.db
+  618  git status
+  619  git log
+  620  mkdir large-directory-that-should-be-local-only
+  621  cd ~/large-directory-that-should-be-local-only
+  622  ls
+  623  cd ~/large-directory-that-should-be-local-only
+  624  large-directory-that-should-be-local-only
+  625  ls
+  626  cd large-directory-that-should-be-local-only
+  627  cd ~/large-directory-that-should-be-local-only
+  628  mkdir large-directory-that-should-be-local-only
+  629  cd large-directory-that-should-be-local-only
+  630  cd ..
+  631  git status
+  632  cd ~/large-directory-that-should-be-local-only
+  633  touch readme.md
+  634  nano readme.md
+  635  cd ..
+  636  git status
+  637  ls
+  638  cd ~/git-basic-exercises
+  639  git status
+  640  nano .gitignore
+  641  git status
+  642  git log
+  643  ls
+  644  git branch
+  645  git checkout project/git-basic-exercises
+  646  ls
+  647  git status
+  648  cd ~/large-directory-that-should-be-local-only
+  649  ls
+  650  git add .
+  651  git add .gitignore
+  652  cd -
+  653  git add .
+  654  git status
+  655  git branch
+  656  git commit -m "ignore-me"
+  657  git status
+  658  git branch
+  659  cd ~/large-directory-that-should-be-local-only
+  660  git branch
+  661  git checkout master
+  662  git init
+  663  ls
+  664  ls -a
+  665  git branch
+  666  git status
+  667  git add readme.md
+  668  ls -a
+  669  git status
+  670  git branch
+  671  cd -
+  672  git branch
+  673  git checkout project/git-basic-exercises
+  674  git push
+  675  git remote add github https://github.com/katlegoJKS/git-basic-exercises.git
+  676  git push github project/git-basic-exercises
+  677  ls
+  678  cd-
+  679  cd -
+  680  cd
+  681  ls
+  682  cd ~/tech-department
+  683  git branch
+  684  git log
+  685  git branch -a
+  686  git branch
+  687  git checkout project/git-basic exercises
+  688  git checkout project/git-basic-exercises
+  689  git remote -v
+  690  git checkout project/git-basic-exercises
+  691  cd ~/this-will-be-another-repo
+  692  ls
+  693  ls -a
+  694  cd ~/large-directory-that-should-be-local-only
+  695  ls -a
+  696  git status
+  697  git commit -m "ignore-me"
+  698  git log
+  699  git status
+  700  git branch
+  701  cd -
+  702  ls -a
+  703  git branch
+  704  cd ~/tech-department
+  705  git branch
+  706  git push
+  707  git checkout master
+  708  git merge project/git-basic-exercises
+  709  git checkout project/git-basic-exercises
+  710  git merge master
+  711  git push project/git-basic-exercises
+  712  git push github project/git-basic-exercises
+  713  ls
+  714  cd -
+  715  ls
+  716  ls -a
+  717  cd -
+  718  ls -a
+  719  git push github .gitignore
+  720  cd ~/git-basic-exercises
+  721  ls -a
+  722  nano .gitignore
+  723  git status
+  724  ls
+  725  git branch
+  726  ls
+  727  cat clear
+  728  git checkout history
+  729  ls
+  730  git branch
+  731  git merge feat/milkshake-flavours
+  732  git checkout master
+  733  git push
+  734  git push origin master:feat/milkshake-falvours
+  735  git checkout feat/milkshake-flavours
+  736  ls
+  737  git push github master
+  738  git push
+  739  git remote add github https://github.com/katlegoJKS/git-basic-exercises.git
+  740  git remote add git-basic-exercises https://github.com/katlegoJKS/git-basic-exercises.git
+  741  ls
+  742  ls -a
+  743  git add .
+  744  git commit -m "saved"
+  745  git branch
+  746  git push github master
+  747  pwd
+  748  mkdir git-basic-exercises
+  749  cd ~/git-basic-exercises
+  750  ls -a
+  751  git init
+  752  ls -a
+  753  git status
+  754  touch README.md
+  755  git status
+  756  git log
+  757  git add README.md
+  758  git status
+  759  git commit -m "initial commit"
+  760  git status
+  761  git log
+  762  nano README.md
+  763  cat README.md
+  764  git status
+  765  git add README.md
+  766  git commit -m "second commit after editing README"
+  767  git log
+  768  nano README.md
+  769  git add README.md
+  770  git commit -m "third commit"
+  771  git status
+  772  git log
+  773  git checkout 4c09130ff03c7205e639801b96cf0404bb2ec163
+  774  cat README.md
+  775  git checkout master
+  776  cat README.md
+  777  git checkout
+  778  git branch
+  779  git checkout -b milkshake-flavours
+  780  git branch
+  781  nano milkshakes.md
+  782  git status
+  783  git add milkshakes.md
+  784  git commit -m "added initial flavours"
+  785  git log
+  786  git checkout master
+  787  git log
+  788  git branch
+  789  git checkout -b history
+  790  git checkout history
+  791  git log
+  792  history > history.txt
